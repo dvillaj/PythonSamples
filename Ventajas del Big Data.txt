@@ -1,0 +1,7 @@
+Cinco grandes ventajas competitivas para las empresas que establezcan y desarrollen una estrategia adecuada en Big Data.
+1. Las mejoras tecnológicas posibilitan la adquisición de datos y descubrir necesidades y puntos de mejora.
+2. El análisis de los datos puede mejorar sustancialmente la toma de decisiones.
+3. Big Data facilita que las compañías evalúen sus productos.
+4. La segmentación de los clientes para personalizar acciones.
+5. Mejora la accesibilidad y la fluidez de la información dentro de la propia empresa.
+Para lograrlo Python es imprescindible
